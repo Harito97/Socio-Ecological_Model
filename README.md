@@ -1,4 +1,4 @@
-**Socio-Ecological Model**
+# Socio-Ecological Model
 
 ## Introduction
 
@@ -17,9 +17,9 @@ While the complete code might reside within a single file for simplicity, the mo
 
 **Prerequisites:**
 
-    - Python 3.x installed ([https://www.python.org/downloads/](https://www.google.com/url?sa=E&source=gmail&q=https://www.python.org/downloads/))
+- Python 3.x installed ([https://www.python.org/downloads/](https://www.google.com/url?sa=E&source=gmail&q=https://www.python.org/downloads/))
 
-    - Needed library: numpy, matplotlib
+- Needed library: numpy, matplotlib
   
 **Steps:**
 
